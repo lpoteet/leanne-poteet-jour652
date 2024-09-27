@@ -1,0 +1,43 @@
+styles for my resume
+body {
+    font-family: "Open Sans", Arial;
+    font-size: 1em;
+    color: #444;
+}
+banner name at top
+h1 {
+    font-size: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;   
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    color: #33485e;
+    font-weight: 600;  
+}
+
+h2 {
+    font-size: 1.5em;
+    text-transform: uppercase;
+    background: #33485e;
+    color: #fff;
+    font-weight: 400;
+}
+
+h4 {
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 1em;
+}
+
+ul {
+    font-size: 1em;
+}
