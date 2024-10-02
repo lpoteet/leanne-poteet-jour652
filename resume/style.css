@@ -11,14 +11,14 @@ h1 {
     text-transform: uppercase;
     text-align: center;   
 }
-
+/*job title*/
 h3 {
     text-transform: uppercase;
     font-size: 1.5em;
     color: #33485e;
     font-weight: 600;  
 }
-
+/*experience education skills*/
 h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -26,18 +26,18 @@ h2 {
     color: #fff;
     font-weight: 400;
 }
-
+/*job organization*/
 h4 {
     font-weight: 400;
     font-style: italic;
     font-size: 1.5em;
 }
-
+/*dates*/
 h5 {
     font-weight: 700;
     font-size: 1em;
 }
-
+/*lists*/
 ul {
     font-size: 1em;
 }
