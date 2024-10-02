@@ -4,6 +4,13 @@ body {
     font-size: 1em;
     color: #444;
 }
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px 0px 0px 50px;
+}
 /*banner name at top*/
 h1 {
     font-size: 3em;
@@ -11,6 +18,14 @@ h1 {
     text-transform: uppercase;
     text-align: center;   
 }
+
+.name {
+    border-bottom: solid 1px #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
 /*job title*/
 h3 {
     text-transform: uppercase;
@@ -18,6 +33,11 @@ h3 {
     color: #33485e;
     font-weight: 600;  
 }
+
+.jobtitle {
+    
+}
+
 /*experience education skills*/
 h2 {
     font-size: 1.5em;
@@ -26,18 +46,46 @@ h2 {
     color: #fff;
     font-weight: 400;
 }
+
+.sectionheader {
+    margin: 20px 0 10px 0;
+    padding: 5px 0 5px 10px;
+    width: 100%;
+    min-width: 300px;
+}
+
 /*job organization*/
 h4 {
     font-weight: 400;
     font-style: italic;
     font-size: 1.5em;
 }
+
+.organization {
+    font-size: 1.2em;
+}
+
 /*dates*/
 h5 {
     font-weight: 700;
     font-size: 1em;
 }
+
+.date {
+    margin: 2px 0;
+}
+
+.description {
+    margin: 10px 0;
+}
+
 /*lists*/
 ul {
     font-size: 1em;
+}
+
+.menu {
+    margin: 10px 0 20px 0;
+    padding: 0;
+    text-align: center;
 }
