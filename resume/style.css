@@ -102,3 +102,34 @@ ul {
 .do {
     margin: 5px 0 0 0;
 }
+
+.title {
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
+.headshot {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #33485e;
+}
+
+.headshot-container {
+    text-align: center;
+}
+
+.a:link {
+    font-weight: 600;
+    font color: #0bc5f4;
+}
+
+.a:hover {
+    color: #33485e;
+}
+
+.a:visited: {
+    color: #6e38c7;
+}
