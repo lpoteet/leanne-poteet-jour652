@@ -20,7 +20,7 @@ h1 {
 }
 
 .name {
-    border-bottom: solid 1px #33485e;
+    border-bottom: 1px solid #33485e;
     width: 60%;
     min-width: 300px;
     margin: 0 auto;
@@ -88,4 +88,17 @@ ul {
     margin: 10px 0 20px 0;
     padding: 0;
     text-align: center;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.degrees {
+    margin: 5px 0 0 0;
+}
+
+.do {
+    margin: 5px 0 0 0;
 }
