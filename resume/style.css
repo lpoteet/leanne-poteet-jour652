@@ -97,15 +97,15 @@ ul {
     padding: 0 20px;
 }
 
-.degrees {
+#degrees {
     margin: 5px 0 0 0;
 }
 
-.do {
+#do {
     margin: 5px 0 0 0;
 }
 
-.headshot {
+#headshot {
     width: 150px;
     height: 150px;
     object-fit: cover;
