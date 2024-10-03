@@ -5,7 +5,7 @@ body {
     color: #444;
 }
 
-.container {
+#container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -19,7 +19,7 @@ h1 {
     text-align: center;   
 }
 
-.name {
+#name {
     border-bottom: 1px solid #33485e;
     width: 60%;
     min-width: 300px;
@@ -28,14 +28,16 @@ h1 {
 
 /*job title*/
 h3 {
-    text-transform: uppercase;
     font-size: 1.5em;
     color: #33485e;
     font-weight: 600;  
 }
 
-.jobtitle {
-    
+#title {
+    text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0 0 0;
 }
 
 /*experience education skills*/
@@ -103,12 +105,6 @@ ul {
     margin: 5px 0 0 0;
 }
 
-.title {
-    font-weight: 600;
-    text-align: center;
-    margin: 20px 0 0 0;
-}
-
 .headshot {
     width: 150px;
     height: 150px;
@@ -117,7 +113,7 @@ ul {
     border: 5px solid #33485e;
 }
 
-.headshot-container {
+#headshot-container {
     text-align: center;
 }
 
