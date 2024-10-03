@@ -91,7 +91,7 @@ ul {
 }
 
 .menu li {
-    display: inline-block;
+    display: inline;
     padding: 0 20px;
 }
 
