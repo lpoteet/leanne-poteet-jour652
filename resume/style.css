@@ -1,6 +1,6 @@
 /*styles for my resume*/
 body {
-    font-family: "Open Sans", Arial;
+    font-family: "Open Sans", Arial, system-ui;
     font-size: 1em;
     color: #444;
 }
@@ -9,71 +9,61 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0px 0px 0px 50px;
+    padding: 0 0 50px 0;
 }
 /*banner name at top*/
-h1 {
+#name {
     font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
-    text-align: center;   
-}
-
-#name {
+    text-align: center;
     border-bottom: 1px solid #33485e;
     width: 60%;
     min-width: 300px;
     margin: 0 auto;
 }
 
-/*job title*/
-h3 {
+/*current job title*/
+#title {
     font-size: 1.5em;
     color: #33485e;
-    font-weight: 600;  
-}
-
-#title {
+    font-weight: 600; 
     text-transform: uppercase;
     font-weight: 600;
     text-align: center;
     margin: 20px 0 0 0;
 }
-
 /*experience education skills*/
-h2 {
+.sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
     background: #33485e;
     color: #fff;
     font-weight: 400;
-}
-
-.sectionheader {
     margin: 20px 0 10px 0;
     padding: 5px 0 5px 10px;
     width: 100%;
     min-width: 300px;
 }
-
-/*job organization*/
-h4 {
-    font-weight: 400;
-    font-style: italic;
+/*job title*/
+.jobtitle {
     font-size: 1.5em;
+    color: #33485e;
+    font-weight: 600; 
+    text-align: left;
 }
 
+/*job organization*/
 .organization {
+    font-weight: 400;
+    font-style: italic;
     font-size: 1.2em;
 }
 
 /*dates*/
-h5 {
+.dates {
     font-weight: 700;
     font-size: 1em;
-}
-
-.date {
     margin: 2px 0;
 }
 
@@ -117,15 +107,15 @@ ul {
     text-align: center;
 }
 
-.a:link {
+a:link {
     font-weight: 600;
     font color: #0bc5f4;
 }
 
-.a:hover {
+a:hover {
     color: #33485e;
 }
 
-.a:visited: {
+a:visited: {
     color: #6e38c7;
 }
