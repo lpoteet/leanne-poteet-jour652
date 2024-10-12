@@ -20,6 +20,13 @@ h1 {
     font-size: 36px;
 }
 
+h2 {
+    font-family: Georgia;
+    font-size: 18px;
+    font-style: italic;
+    column-width: 50%;
+}
+
 #byline {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
@@ -28,11 +35,13 @@ h1 {
 
 #lead image {
     width: 100%;
+    padding: 20px;
 }
 
 #caption {
     font-family: Helvetica, sans-serif;
     font-size: 10px;
+    color: gray;
 }
 
 p {
