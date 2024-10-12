@@ -1,0 +1,26 @@
+/*styles for midterm-review*/
+body {
+    
+}
+
+#container {
+    
+}
+
+/*masthead*/
+
+h1 {
+    font-family: Helvetica;
+    font-size: 36px;
+}
+
+#byline [
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic; 
+]
+
+p {
+    font-family: Georgia, serif;
+    font-size: 13 px;
+}
