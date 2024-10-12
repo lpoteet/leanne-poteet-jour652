@@ -4,21 +4,36 @@ body {
 }
 
 #container {
-    
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 /*masthead*/
+#masthead {
+    width: 100%;
+}
 
 h1 {
     font-family: Helvetica;
     font-size: 36px;
 }
 
-#byline [
+#byline {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
     font-style: italic; 
-]
+}
+
+#lead image {
+    width: 100%;
+}
+
+#caption {
+    font-family: Helvetica, sans-serif;
+    font-size: 10px;
+}
 
 p {
     font-family: Georgia, serif;
