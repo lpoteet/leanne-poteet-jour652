@@ -14,7 +14,7 @@ h1{
 /*byline*/
 #byline {
     font-family: Garamond, serif;
-    font-size: 14px;
+    font-size: 15px;
     text-transform: uppercase;
     padding: 0 50px 20px;
 }
@@ -25,10 +25,46 @@ img {
     padding: 0 0 20px 0;
 }
 
+/*caption*/
+.caption {
+    font-family: Garamond, serif;
+    font-size: 12px;
+    color: gray;
+    padding: 0 50px 20px;
+}
+
 /*body text*/
 p {
     font-family: Garamond, serif;
-    font-size: 14px;
-    padding: 20px 50px 10;
-    
+    font-size: 15px;
+    padding: 0 50px 10;
+}
+
+/*pullquote*/
+#blockquote {
+    font: 24px normal Arial, sans-serif;
+    font-style: italic;
+    margin: 15px 0 40px 60px;
+    color: cadetblue;
+    padding-left: 15px;
+    border-left: 4px solid #ccc;
+}
+
+/*More Reads*/
+h3 {
+    font-family: Garamond, serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 20px 30px 0;
+}
+
+ul {
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+li {
+    font-family: Garamond, serif;
+    font-size: 15px;
+    padding: 0 20px;
 }
