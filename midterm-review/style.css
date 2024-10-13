@@ -13,9 +13,11 @@ body {
     width: 100%;
 }
 
+/*headline*/
 h1 {
     font-family: Helvetica, sans-serif;
-    font-size: 36px;
+    font-size: 42px;
+    font-weight: 600;
     padding: 10px 50px 0;
 }
 
@@ -52,5 +54,33 @@ p {
     font-family: Georgia, serif;
     font-size: 13 px;
     padding: 10px 50px 0;
+}
 
+
+/*pullquote*/
+#blockquote {
+    font-family: Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin: 30px 200px 0;
+    color: darkorchid;
+    padding-left: 15px;
+}
+
+span {
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 90%;
+}
+h4 {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0 50px auto;
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+    margin: 0 50px auto;
 }
