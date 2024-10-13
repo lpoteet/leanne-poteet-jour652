@@ -3,11 +3,9 @@ body {
     
 }
 
-#container {
-    width: 100%;
-    max-width: 1920px;
+#content {
     margin: 0 auto;
-    padding: 20px;
+    width: 900;
 }
 
 /*masthead*/
@@ -18,37 +16,40 @@ body {
 h1 {
     font-family: Helvetica, sans-serif;
     font-size: 36px;
-    padding: 0 30px 0;
+    padding: 10px 50px 0;
 }
 
 h2 {
-    font-family: Georgia, serif;
+    font-family: Garamond, serif;
     font-size: 18px;
+    font-weight: 100;
     line-height: 150%;
-    font-style: italic;
+    color: gray;
     margin: 0 auto 20px auto;
-    padding: 30px;
+    padding: 10px 100px 10px;
 }
 
 #byline {
     font-family: Helvetica, sans-serif;
     font-size: 14px;
-    font-style: italic;
-    padding: 0 30px 0;
+    padding: 0 50px 0;
 }
 
-#lead image {
-    width: 1920px;
-    padding: 20px;
+#lead image container {
+    width: 100%;
+    padding: 50px;
 }
 
-#caption {
+.caption {
     font-family: Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 12px;
     color: gray;
+    padding: 10px 50px;
 }
 
 p {
     font-family: Georgia, serif;
     font-size: 13 px;
+    padding: 10px 50px 0;
+
 }
