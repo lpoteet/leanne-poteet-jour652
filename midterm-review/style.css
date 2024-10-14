@@ -20,6 +20,7 @@ h1 {
     font-weight: 600;
 }
 
+/*intro section*/
 h2 {
     font-family: Garamond, serif;
     font-size: 18px;
@@ -36,7 +37,26 @@ h2 {
     font-style: italic;
 }
 
+/*read more section*/   
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 10px 50px auto;
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+    margin: 0 50px auto;
+}
+
+/*lead image*/
 #lead-image-container {
+    width: 100%;
+}
+
+#lead-image {
     width: 100%;
 }
 
@@ -47,12 +67,12 @@ h2 {
     padding: 6px 0;
 }
 
+/*body copy*/
 p {
     font-family: Georgia, serif;
     font-size: 13 px;
     padding: 3px 50px 0;
 }
-
 
 /*pullquote*/
 #blockquote {
@@ -67,15 +87,20 @@ span {
     font-size: 14px;
     font-weight: 100;
 }
-h4 {
-    font-family: Helvetica, sans-serif;
-    font-size: 14px;
-    margin: 0 50px auto;
+
+/*images*/
+#image {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 0;
 }
 
-li {
+.caption2 {
     font-family: Helvetica, sans-serif;
-    font-size: 14px;
-    line-height: 150%;
-    margin: 0 50px auto;
-}
+    font-size: 12px;
+    color: gray;
+    width: 50%;
+    margin: 0 auto;
+    padding: 6px 0;
+
