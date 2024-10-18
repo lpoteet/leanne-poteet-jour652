@@ -5,6 +5,11 @@
     width: 900px;
 }
 
+/*masthead*/
+#masthead {
+    width: 100%;
+}
+
 /*heads*/
 h1 {
     font-family: Garamond, serif;
