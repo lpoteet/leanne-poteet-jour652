@@ -49,8 +49,8 @@ blockquote {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 24px;
     font-weight: 600;
-    margin: 25px 150px 20px;
-    color: darkgreen;
+    margin: 25px 100px 20px;
+    color: #274472;
 }
 
 span {
@@ -83,6 +83,7 @@ span {
     padding: 10px 0;
 }
 
+/*body*/   
 p {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
@@ -90,7 +91,6 @@ p {
 }
 
 /*read more section*/   
-
 .read-more-box {
     background-color: aliceblue;
     padding: 20px 0px;
