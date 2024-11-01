@@ -91,11 +91,13 @@ Write the following media queries at the very bottom of this stylesheet BELOW th
 
 /* ADD YOUR MEDIA QUERIES BELOW */
 
-@media screen and (min-width: 576px) {
-#colorbox {
-    background: green;
-    font: white;
-    display: block
+@media only screen and (min-width: 576px) {
+    #colorbox {
+        background-color: green;}
+    #colorbox h2 {
+        color: white;}
+    #green {
+        display: block;}
 }
 }
 
