@@ -21,7 +21,7 @@ p {
 h2 {
     font-size: 1em;
     font-family: "Roboto Condensed", sans-serif;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .caption {
@@ -39,4 +39,15 @@ blockquote {
     text-align: center;
     color: gray;
     padding: 20px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    background: black;
+    font-size: .75em;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
 }
