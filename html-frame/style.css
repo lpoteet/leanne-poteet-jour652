@@ -1,3 +1,9 @@
+.navbar {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 2em;
+    color: white;
+}
+
 #headline {
     font-size: 3 em;
     font-weight: 700;
@@ -15,7 +21,6 @@ p {
     font-size: 1em;
     font-family: Garamond, serif;
     line-height: 120%;
-    
 }
 
 h2 {
