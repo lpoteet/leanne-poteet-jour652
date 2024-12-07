@@ -44,6 +44,7 @@ h2 {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 20px;
     font-weight: 600;
+    margin: 10px 50px auto;
 }
 
 #byline {
@@ -106,27 +107,5 @@ p {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 14px;
     padding: 3px 50px 0;
-}
-
-/*read more section*/   
-.read-more-box {
-    background-color: aliceblue;
-    padding: 20px 0px;
-    position: relative;
-    text-align: left;
-    width: 100%;
-}
-
-h3 {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    margin: 10px 50px auto;
-}
-
-li {
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 150%;
-    margin: 0 50px auto;
 }
 
