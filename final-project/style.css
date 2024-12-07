@@ -69,6 +69,7 @@ blockquote {
 span {
     font-size: 14px;
     font-weight: 100;
+    line-height: 1.2;
 }
 
 /*images*/
