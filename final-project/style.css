@@ -1,4 +1,4 @@
-/*styles for midterm*/
+/*styles for final-project*/
 
 #content {
     max-width: 900px;
@@ -41,7 +41,7 @@ h2 {
 #byline {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
-    
+    text-transform: uppercase;
 }
 
 /*pullquote*/
