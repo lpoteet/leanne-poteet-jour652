@@ -71,10 +71,20 @@ span {
     width: 100%;
 }
 
-#image{
+#image {
     width: 100%;
 }
 
+#image2-container {
+    width: 50%;
+}
+
+#image2 {
+    width: 50%;
+}
+    
+    
+}
 .caption2 {
     font-family: Helvetica, sans-serif;
     font-size: 12px;
