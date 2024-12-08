@@ -62,6 +62,7 @@ blockquote {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 26px;
     font-weight: 600;
+    line-height: 1.2;
     margin: 25px 100px 20px;
     color: #40786f;
 }
