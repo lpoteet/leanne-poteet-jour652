@@ -87,7 +87,8 @@ span {
 #image2 {
     width: 30%;
 }
-    
+
+/*captions*/
 .caption2 {
     font-family: Helvetica, sans-serif;
     font-size: 12px;
@@ -115,11 +116,11 @@ p {
 }
 
 .flourish-embed {
-    padding: 3px 50px 0;
+    padding: 3px 100px 0;
 }
 
 .datawrapper-embed {
-    margin: 3px 50px 0;
+    margin: 3px 100px 0;
 }
 
 .footer {
